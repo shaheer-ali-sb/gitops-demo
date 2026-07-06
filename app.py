@@ -5,7 +5,7 @@ app= Flask(__name__)
 @app.route('/')
 
 def home():
-    return "Task 22 gitops demo application version 1"
+    return "Task 22 gitops demo application version testing"
 
 
 if __name__ == "__main__":
